@@ -1,4 +1,4 @@
-LM-MT5 AI Trading Control Center
+LLM-MT5 AI Trading Control Center
 is a freeware
 
 https://github.com/can87683
