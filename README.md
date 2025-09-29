@@ -6,7 +6,7 @@ Copyright © SU Nie
 All Rights Reserved
 
 Contact me for features or bugs
-mail can87683 at you know gmail dot com
+Email can87683 at you know gmail dot com
 
 https://github.com/can87683
 
