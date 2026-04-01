@@ -10,4 +10,6 @@ All Rights Reserved
 Contact me for features or bugs
 Email can87683 at you know gmail dot com
 
+# Debug/coding assistants
+DeepSeek, ChatGPT, Perplexity, Gemini, Claude
 
